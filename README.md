@@ -2,7 +2,7 @@
 # Bank Customer Churn Analysis
 
 
- Project Overview
+ 
 This is an End-to-End Bank Customer Churn Analysis project. Analyzed 20K+ customers data to find why customers are leaving the bank.
 
  What I Did
